@@ -4,7 +4,6 @@ import router from './router'
 import store from './store'
 import './style/index.less'
 import { Button } from 'vant'
-
 Vue.use(Button)
 Vue.config.productionTip = false
 

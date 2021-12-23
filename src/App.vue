@@ -12,6 +12,7 @@
       <van-button type="warning">警告按钮</van-button>
       <van-button type="danger">危险按钮</van-button>
     </div>
+    <p>hhhhhhhh</p>
   </div>
 </template>
 
@@ -21,3 +22,9 @@ export default {
   name: 'App'
 }
 </script>
+
+<style lang="less">
+  p{
+    font-size: 18px;
+  }
+</style>
