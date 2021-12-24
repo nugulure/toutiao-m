@@ -1,7 +1,5 @@
 <template>
   <div>
-   <p>一直</p>
-   <router-link to="login">跳转</router-link>
    <router-view></router-view>
   </div>
 </template>
